@@ -1,4 +1,4 @@
-export function header() {
+export function addHeader() {
     const header = document.createElement("header");
 
     // Create logo container
